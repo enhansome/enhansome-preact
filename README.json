@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:38:30Z",
+            "last_commit": "2026-08-14T12:34:58Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90834
+            "stars": 90853
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T06:50:47Z",
+            "last_commit": "2026-08-14T08:12:34Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82334
+            "stars": 82352
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-11T02:27:35Z",
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9842
+            "stars": 9841
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8950
+            "stars": 8952
           }
         },
         {
@@ -1032,7 +1032,7 @@
             "last_commit": "2026-08-04T02:10:58Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21241
+            "stars": 21240
           }
         },
         {
@@ -1102,7 +1102,7 @@
             "last_commit": "2026-06-06T18:28:24Z",
             "owner": "fabian-hiller",
             "repo": "modular-forms",
-            "stars": 1212
+            "stars": 1213
           }
         },
         {
@@ -1321,10 +1321,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:39:12Z",
+            "last_commit": "2026-08-14T12:37:11Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3100
+            "stars": 3102
           }
         },
         {
@@ -1753,10 +1753,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:24:44Z",
+            "last_commit": "2026-08-13T15:44:43Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247217
+            "stars": 247257
           }
         },
         {
@@ -1795,7 +1795,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T12:31:20Z",
+            "last_commit": "2026-08-14T10:08:57Z",
             "owner": "zikojs",
             "repo": "ziko",
             "stars": 133
@@ -1821,7 +1821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:41:32.471Z",
+    "last_updated": "2026-08-14T12:37:20.697Z",
     "original_repository": "preactjs/awesome-preact",
     "original_repository_sha": "cea45b398cb88f0a8f00dd0e6f755387060a591f",
     "enhanced_repository": "enhansome/enhansome-preact",
