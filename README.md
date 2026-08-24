@@ -2,9 +2,9 @@
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
-> A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ⭐ 38,831 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-24 ecosystem :star2:
+> A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ⭐ 38,831 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-24 ecosystem :star2:
 
-[Preact](https://github.com/developit/preact) ⭐ 38,831 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-24 is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+[Preact](https://github.com/developit/preact) ⭐ 38,831 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-24 is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
 
@@ -25,13 +25,13 @@
 
 * [Slack](https://chat.preactjs.com/) (Discussion Forum)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-* [Github](https://github.com/developit/preact) ⭐ 38,831 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-24
+* [Github](https://github.com/developit/preact) ⭐ 38,831 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-24
 * [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
 
-* [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) ⭐ 90,912 | 🐛 1,798 | 🌐 TypeScript | 📅 2026-08-24 - Storybook for Preact is a UI development environment for your Preact components.
-* [Vite](https://github.com/vitejs/vite) ⭐ 82,505 | 🐛 748 | 🌐 TypeScript | 📅 2026-08-24 - Fast native-ESM powered web dev build tool for Preact, Vue or React.
+* [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) ⭐ 90,915 | 🐛 1,790 | 🌐 TypeScript | 📅 2026-08-24 - Storybook for Preact is a UI development environment for your Preact components.
+* [Vite](https://github.com/vitejs/vite) ⭐ 82,507 | 🐛 750 | 🌐 TypeScript | 📅 2026-08-24 - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 * [React App Rewire Preact](https://github.com/timarney/react-app-rewired) ⭐ 9,840 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11 - Use Preact with create-react-app without ejecting.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - Quick Development with React, Inferno or Preact.
 * [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,668 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27 - Build a Preact Progressive Web App in seconds.
@@ -198,7 +198,7 @@
 
 ### Related Libraries
 
-* [React](https://github.com/facebook/react) ⭐ 247,688 | 🐛 1,263 | 🌐 JavaScript | 📅 2026-08-24 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [React](https://github.com/facebook/react) ⭐ 247,688 | 🐛 1,264 | 🌐 JavaScript | 📅 2026-08-24 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [Inferno](https://github.com/infernojs/inferno) ⭐ 16,454 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-19 - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [Rax](https://github.com/alibaba/rax) ⭐ 8,021 | 🐛 80 | 🌐 JavaScript | 📅 2023-03-27 - A universal React-compatible render engine.
 * [Zikojs](https://github.com/zakarialaoui10/zikojs) ⭐ 133 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-14 - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.

@@ -12,10 +12,10 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:10:09Z",
+            "last_commit": "2026-08-24T14:07:18Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90912
+            "stars": 90915
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82505
+            "stars": 82507
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 1141782494,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T11:33:26Z",
+            "last_commit": "2026-08-24T14:10:26Z",
             "owner": "zakarialaoui10",
             "repo": "ufbr",
             "stars": 19
@@ -1413,7 +1413,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:21:49Z",
+            "last_commit": "2026-08-24T14:13:52Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3155
@@ -1869,7 +1869,7 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:10:03Z",
+            "last_commit": "2026-08-24T13:14:18Z",
             "owner": "react",
             "repo": "react",
             "stars": 247688
@@ -1925,7 +1925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:22:53.011Z",
+    "last_updated": "2026-08-24T14:14:07.220Z",
     "original_repository": "preactjs/awesome-preact",
     "original_repository_id": 79582090,
     "original_repository_sha": "cea45b398cb88f0a8f00dd0e6f755387060a591f",
