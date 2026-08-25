@@ -12,10 +12,10 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:45:42Z",
+            "last_commit": "2026-08-25T11:57:51Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90928
+            "stars": 90932
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:58:55Z",
+            "last_commit": "2026-08-25T08:04:24Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82519
+            "stars": 82528
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2024-07-29T18:35:53Z",
             "owner": "preactjs",
             "repo": "preact-router",
-            "stars": 1053
+            "stars": 1052
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-24T20:35:11Z",
             "owner": "zakarialaoui10",
             "repo": "ufbr",
-            "stars": 19
+            "stars": 20
           }
         }
       ],
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-08-24T08:32:54Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21244
+            "stars": 21243
           }
         },
         {
@@ -1413,7 +1413,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:14:18Z",
+            "last_commit": "2026-08-25T08:13:28Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3156
@@ -1446,7 +1446,7 @@
             "last_commit": "2024-03-25T20:59:27Z",
             "owner": "idoco",
             "repo": "intergram",
-            "stars": 1418
+            "stars": 1417
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "last_commit": "2024-08-10T14:06:49Z",
             "owner": "feross",
             "repo": "bitmidi.com",
-            "stars": 615
+            "stars": 616
           }
         },
         {
@@ -1869,10 +1869,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T22:52:04Z",
+            "last_commit": "2026-08-25T07:43:36Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247883
+            "stars": 247886
           }
         },
         {
@@ -1925,7 +1925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:20.733Z",
+    "last_updated": "2026-08-25T12:23:18.643Z",
     "original_repository": "preactjs/awesome-preact",
     "original_repository_id": 79582090,
     "original_repository_sha": "cea45b398cb88f0a8f00dd0e6f755387060a591f",
