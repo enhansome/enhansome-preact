@@ -12,10 +12,10 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:07:18Z",
+            "last_commit": "2026-08-24T20:45:42Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90915
+            "stars": 90928
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82507
+            "stars": 82519
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-21T16:12:40Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7866
+            "stars": 7868
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 1141782494,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:10:26Z",
+            "last_commit": "2026-08-24T20:35:11Z",
             "owner": "zakarialaoui10",
             "repo": "ufbr",
             "stars": 19
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-08-24T08:32:54Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21243
+            "stars": 21244
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-08-20T18:33:11Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7577
+            "stars": 7578
           }
         },
         {
@@ -1413,10 +1413,10 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:13:52Z",
+            "last_commit": "2026-08-25T05:14:18Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3155
+            "stars": 3156
           }
         },
         {
@@ -1869,10 +1869,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:14:18Z",
+            "last_commit": "2026-08-24T22:52:04Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247688
+            "stars": 247883
           }
         },
         {
@@ -1925,7 +1925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:07.220Z",
+    "last_updated": "2026-08-25T06:08:20.733Z",
     "original_repository": "preactjs/awesome-preact",
     "original_repository_id": 79582090,
     "original_repository_sha": "cea45b398cb88f0a8f00dd0e6f755387060a591f",
