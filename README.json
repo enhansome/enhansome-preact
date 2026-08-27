@@ -12,10 +12,10 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:19:42Z",
+            "last_commit": "2026-08-27T11:58:09Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90939
+            "stars": 90948
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:21:13Z",
+            "last_commit": "2026-08-27T02:19:58Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82543
+            "stars": 82553
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 1141782494,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:35:11Z",
+            "last_commit": "2026-08-27T08:52:50Z",
             "owner": "zakarialaoui10",
             "repo": "ufbr",
             "stars": 20
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -465,7 +465,7 @@
             "archived": false,
             "id": 842990422,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:51:28Z",
+            "last_commit": "2026-08-27T04:48:36Z",
             "owner": "s00d",
             "repo": "nuxt-i18n-micro",
             "stars": 247
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-08-24T08:32:54Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21243
+            "stars": 21244
           }
         },
         {
@@ -1131,10 +1131,10 @@
             "archived": false,
             "id": 304120355,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T18:33:11Z",
+            "last_commit": "2026-08-27T10:06:15Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7579
+            "stars": 7581
           }
         },
         {
@@ -1413,7 +1413,7 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T11:06:08Z",
+            "last_commit": "2026-08-27T12:00:46Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3156
@@ -1431,7 +1431,7 @@
             "last_commit": "2026-08-03T22:28:28Z",
             "owner": "chinchang",
             "repo": "web-maker",
-            "stars": 2694
+            "stars": 2695
           }
         },
         {
@@ -1869,10 +1869,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T12:16:45Z",
+            "last_commit": "2026-08-26T19:53:08Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247897
+            "stars": 247979
           }
         },
         {
@@ -1914,7 +1914,7 @@
             "archived": false,
             "id": 401622710,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T09:49:19Z",
+            "last_commit": "2026-08-27T11:56:38Z",
             "owner": "zikojs",
             "repo": "ziko",
             "stars": 133
@@ -1925,9 +1925,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:25:35.889Z",
-    "original_repository": "preactjs/awesome-preact",
-    "original_repository_id": 79582090,
+    "last_updated": "2026-08-27T12:01:07.757Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 79582090,
+      "language": null,
+      "last_commit": "2026-08-05T22:19:42Z",
+      "owner": "preactjs",
+      "repo": "awesome-preact",
+      "stars": 1002
+    },
     "original_repository_sha": "cea45b398cb88f0a8f00dd0e6f755387060a591f",
     "enhanced_repository": "enhansome/enhansome-preact",
     "enhanced_repository_description": null,
