@@ -12,11 +12,12 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:26:25Z",
+            "last_commit": "2026-08-28T21:09:18Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90950
-          }
+            "stars": 90957
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:19:58Z",
+            "last_commit": "2026-08-28T09:47:39Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82555
-          }
+            "stars": 82575
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-11T02:27:35Z",
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9840
-          }
+            "stars": 9841
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "insin",
             "repo": "nwb",
             "stars": 5535
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "preactjs",
             "repo": "preact-cli",
             "stars": 4668
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "just-boris",
             "repo": "create-preact-app",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "SaraVieira",
             "repo": "preact-cli-postcss",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "kamod-ch",
             "repo": "preactpress",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Toolkits"
@@ -142,7 +150,8 @@
             "owner": "developit",
             "repo": "preact-boilerplate",
             "stars": 961
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Debdut",
             "repo": "browser-extension",
             "stars": 692
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ezekielchentnik",
             "repo": "preact-pwa",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "lukeed",
             "repo": "preact-starter",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "ooade",
             "repo": "PreactSimpleStarter",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "nickytonline",
             "repo": "ts-preact-starter",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "csbun",
             "repo": "preact-redux-ssr-example",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "PiyushSuthar",
             "repo": "preact-webext",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "kolodziejczakM",
             "repo": "preact-modern-startupper",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "bmitchinson",
             "repo": "old-preact-typescript-pwa-starter",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "yoctopuce-examples",
             "repo": "electron-typescript-preact-boilerplate",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "Terminats",
             "repo": "preact-neutralino-typescript-starter",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "nesterow",
             "repo": "minizavr",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Boilerplates"
@@ -343,7 +364,8 @@
             "owner": "molefrog",
             "repo": "wouter",
             "stars": 7867
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "preactjs",
             "repo": "preact-router",
             "stars": 1052
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "mjanssen",
             "repo": "preact-route-async",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "zakarialaoui10",
             "repo": "ufbr",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Routing"
@@ -408,8 +433,9 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8967
-          }
+            "stars": 8972
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "preactjs",
             "repo": "preact-compat",
             "stars": 943
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "preactjs",
             "repo": "preact-render-to-string",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "prateekbh",
             "repo": "preact-material-components",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "s00d",
             "repo": "nuxt-i18n-micro",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "developit",
             "repo": "preact-virtual-list",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "developit",
             "repo": "preact-markup",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "ajainvivek",
             "repo": "preact-fluid",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "developit",
             "repo": "preact-mdl",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "developit",
             "repo": "preact-photon",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "developit",
             "repo": "preact-portal",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "developit",
             "repo": "preact-cycle",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "prateekbh",
             "repo": "preact-async-route",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "ooade",
             "repo": "pimg",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "Download",
             "repo": "preact-helmet",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "DenysVuika",
             "repo": "preact-translate",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "developit",
             "repo": "preact-token-input",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "MobiusHorizons",
             "repo": "mu-forms",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "fakundo",
             "repo": "preact-transitioning",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "lukeed",
             "repo": "preact-progress",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "laurencedorman",
             "repo": "preact-classless-component",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "lukeed",
             "repo": "preact-scroll-header",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "developit",
             "repo": "preact-richtextarea",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "vutran",
             "repo": "preact-codemod",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "Download",
             "repo": "preact-i18nline",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "luisvinicius167",
             "repo": "preact-mui",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "matthewmueller",
             "repo": "preact-head",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "tkh44",
             "repo": "shallow-compare",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "queckezz",
             "repo": "preact-hyperscript",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "ForsakenHarmony",
             "repo": "preact-feather",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "haensl",
             "repo": "preact-component-console",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "webyom",
             "repo": "pant",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -889,7 +946,8 @@
             "owner": "nesterow",
             "repo": "tailored",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -904,7 +962,8 @@
             "owner": "TimDaub",
             "repo": "preact-touchable-dock",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -919,7 +978,8 @@
             "owner": "NekR",
             "repo": "preact-delegate",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -934,7 +994,8 @@
             "owner": "Sobesednik",
             "repo": "preact-animate-on-change",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "matthewmueller",
             "repo": "preact-socrates",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1026,8 @@
             "owner": "xialvjun",
             "repo": "preact-flyd",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,24 @@
             "owner": "ooade",
             "repo": "preact-side-effect",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kamod UI",
+          "description": "Lightweight Preact and Tailwind UI components (shadcn-style approach) (demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182482104,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:35:32Z",
+            "owner": "kamod-ch",
+            "repo": "kamod-ui",
+            "stars": 9
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -994,22 +1074,8 @@
             "owner": "ezekielchentnik",
             "repo": "preact-no-ssr",
             "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kamod UI",
-          "description": "Lightweight Preact and Tailwind UI components (shadcn-style approach) (demo).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1182482104,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T00:35:32Z",
-            "owner": "kamod-ch",
-            "repo": "kamod-ui",
-            "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1090,8 @@
             "owner": "juliangruber",
             "repo": "preact-level-list",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1106,8 @@
             "owner": "KwanMan",
             "repo": "preact-tiny-atom",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1122,8 @@
             "owner": "bboydflo",
             "repo": "flagstrap-preact",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1138,8 @@
             "owner": "TimDaub",
             "repo": "preact-nominal-allocator",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1154,8 @@
             "owner": "dimidd",
             "repo": "preact-filter-builder",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Components"
@@ -1104,8 +1175,9 @@
             "last_commit": "2026-08-24T08:32:54Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21245
-          }
+            "stars": 21246
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1192,8 @@
             "owner": "urql-graphql",
             "repo": "urql",
             "stars": 8967
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1134,8 +1207,9 @@
             "last_commit": "2026-08-27T10:06:15Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7581
-          }
+            "stars": 7582
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1224,8 @@
             "owner": "developit",
             "repo": "unistore",
             "stars": 2846
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1240,8 @@
             "owner": "redux-zero",
             "repo": "redux-zero",
             "stars": 1961
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1256,8 @@
             "owner": "fabian-hiller",
             "repo": "modular-forms",
             "stars": 1212
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1272,8 @@
             "owner": "teafuljs",
             "repo": "teaful",
             "stars": 712
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1288,8 @@
             "owner": "0no-co",
             "repo": "hoofd",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1304,8 @@
             "owner": "Marcisbee",
             "repo": "exome",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1320,8 @@
             "owner": "jamesbirtles",
             "repo": "fpreact",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1336,8 @@
             "owner": "alloc",
             "repo": "preact-in-motion",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1352,8 @@
             "owner": "Autodesk",
             "repo": "clearx",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1368,8 @@
             "owner": "zikojs",
             "repo": "zikofy",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1384,8 @@
             "owner": "EGAMAGZ",
             "repo": "pretch",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1400,8 @@
             "owner": "kamod-ch",
             "repo": "kamod-hooks",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Libraries"
@@ -1336,7 +1422,8 @@
             "owner": "mwood23",
             "repo": "preact-island",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1438,8 @@
             "owner": "mzgoddard",
             "repo": "preact-render-spy",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1454,8 @@
             "owner": "testing-library",
             "repo": "preact-testing-library",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1470,8 @@
             "owner": "developit",
             "repo": "preact-jsx-chai",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1486,8 @@
             "owner": "windyGex",
             "repo": "preact-test-utils",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Testing Utils"
@@ -1413,11 +1504,12 @@
             "archived": false,
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:06:10Z",
+            "last_commit": "2026-08-28T18:06:33Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3156
-          }
+            "stars": 3163
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1432,7 +1524,8 @@
             "owner": "chinchang",
             "repo": "web-maker",
             "stars": 2695
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1447,7 +1540,8 @@
             "owner": "idoco",
             "repo": "intergram",
             "stars": 1416
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1462,7 +1556,8 @@
             "owner": "GoogleChromeLabs",
             "repo": "proxx",
             "stars": 1359
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1572,8 @@
             "owner": "PuruVJ",
             "repo": "macos-preact",
             "stars": 1040
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1588,8 @@
             "owner": "feross",
             "repo": "bitmidi.com",
             "stars": 617
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1506,8 +1603,9 @@
             "last_commit": "2023-08-21T09:33:47Z",
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 602
-          }
+            "stars": 601
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1620,8 @@
             "owner": "kristoferbaxter",
             "repo": "preact-hn",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1537,7 +1636,8 @@
             "owner": "OpenNewsLabs",
             "repo": "guri-vr",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1652,8 @@
             "owner": "developit",
             "repo": "oss.ninja",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1567,7 +1668,8 @@
             "owner": "jakearchibald",
             "repo": "big-web-quiz",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1684,8 @@
             "owner": "developit",
             "repo": "preact-todomvc",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1597,7 +1700,8 @@
             "owner": "lukeed",
             "repo": "colors-app",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1716,8 @@
             "owner": "vaneenige",
             "repo": "offline-gallery",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1732,8 @@
             "owner": "quartercastle",
             "repo": "hueify",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1748,8 @@
             "owner": "feross",
             "repo": "play.cash",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1764,8 @@
             "owner": "kolodziejczakM",
             "repo": "passwords-fountain",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1672,7 +1780,8 @@
             "owner": "developit",
             "repo": "nectarine",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1687,7 +1796,8 @@
             "owner": "vaneenige",
             "repo": "periodic-weather",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1702,7 +1812,8 @@
             "owner": "jpodwys",
             "repo": "preact-journal",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1717,7 +1828,8 @@
             "owner": "carlosqsilva",
             "repo": "YASCC",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1732,7 +1844,8 @@
             "owner": "vaneenige",
             "repo": "rainbow-explorer",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1747,7 +1860,8 @@
             "owner": "ibm-watson-data-lab",
             "repo": "shopping-list-preact-pouchdb",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1762,7 +1876,8 @@
             "owner": "code-and-comment",
             "repo": "code-and-comment",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1777,7 +1892,8 @@
             "owner": "jordic",
             "repo": "tracks_preact",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1792,7 +1908,8 @@
             "owner": "sakihet",
             "repo": "trellith",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1807,7 +1924,8 @@
             "owner": "rugby-board",
             "repo": "rugby-board-node",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1940,8 @@
             "owner": "code2k",
             "repo": "ghfresh",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1956,8 @@
             "owner": "SafdarJamal",
             "repo": "vanilla-preact",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1972,8 @@
             "owner": "MiftikCZ",
             "repo": "idea-keeper-2",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Example Apps"
@@ -1869,11 +1990,12 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T19:53:08Z",
+            "last_commit": "2026-08-28T11:10:40Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247988
-          }
+            "stars": 248006
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1887,8 +2009,9 @@
             "last_commit": "2026-08-19T12:23:11Z",
             "owner": "infernojs",
             "repo": "inferno",
-            "stars": 16455
-          }
+            "stars": 16456
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1903,7 +2026,8 @@
             "owner": "alibaba",
             "repo": "rax",
             "stars": 8020
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         },
         {
           "node_type": "item",
@@ -1914,18 +2038,19 @@
             "archived": false,
             "id": 401622710,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:02:03Z",
+            "last_commit": "2026-08-28T09:49:57Z",
             "owner": "zikojs",
             "repo": "ziko",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
         }
       ],
       "title": "Related Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:23:09.365Z",
+    "last_updated": "2026-08-28T21:34:19.696Z",
     "original_repository_info": {
       "archived": false,
       "id": 79582090,
