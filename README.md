@@ -2,9 +2,9 @@
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
-> A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ⭐ 38,840 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-28 ecosystem :star2:
+> A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ⭐ 38,842 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-28 ecosystem :star2:
 
-[Preact](https://github.com/developit/preact) ⭐ 38,840 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-28 is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+[Preact](https://github.com/developit/preact) ⭐ 38,842 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-28 is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
 
@@ -25,13 +25,13 @@
 
 * [Slack](https://chat.preactjs.com/) (Discussion Forum)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-* [Github](https://github.com/developit/preact) ⭐ 38,840 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-28
+* [Github](https://github.com/developit/preact) ⭐ 38,842 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-28
 * [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
 
-* [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) ⭐ 90,957 | 🐛 1,775 | 🌐 TypeScript | 📅 2026-08-28 - Storybook for Preact is a UI development environment for your Preact components.
-* [Vite](https://github.com/vitejs/vite) ⭐ 82,575 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-28 - Fast native-ESM powered web dev build tool for Preact, Vue or React.
+* [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) ⭐ 90,958 | 🐛 1,774 | 🌐 TypeScript | 📅 2026-08-28 - Storybook for Preact is a UI development environment for your Preact components.
+* [Vite](https://github.com/vitejs/vite) ⭐ 82,575 | 🐛 771 | 🌐 TypeScript | 📅 2026-08-28 - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 * [React App Rewire Preact](https://github.com/timarney/react-app-rewired) ⭐ 9,841 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11 - Use Preact with create-react-app without ejecting.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - Quick Development with React, Inferno or Preact.
 * [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,668 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27 - Build a Preact Progressive Web App in seconds.
@@ -119,7 +119,7 @@
 
 ### Libraries
 
-* [Jotai](https://github.com/pmndrs/jotai) ⭐ 21,246 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 - Primitive and flexible state management for React & Preact.
+* [Jotai](https://github.com/pmndrs/jotai) ⭐ 21,247 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-24 - Primitive and flexible state management for React & Preact.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) ⭐ 8,967 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-22 - Use [urql](https://github.com/FormidableLabs/urql) ⭐ 8,967 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-22 with Preact core + hooks.
 * [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,582 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-27 - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 * [Unistore](https://github.com/developit/unistore) ⭐ 2,846 | 🐛 46 | 🌐 JavaScript | 📅 2021-06-07 - 350b / 650b state container with component actions for Preact & React.
@@ -158,7 +158,7 @@
 
 ### Example Apps
 
-* [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project](https://github.com/GladysAssistant/Gladys) ⭐ 3,163 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-28)*.
+* [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project](https://github.com/GladysAssistant/Gladys) ⭐ 3,164 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-29)*.
 * [Web Maker](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. *([Github project](https://github.com/chinchang/web-maker) ⭐ 2,695 | 🐛 120 | 🌐 JavaScript | 📅 2026-08-03)*.
 * [Intergram](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. *([Github project](https://github.com/idoco/intergram) ⭐ 1,416 | 🐛 73 | 🌐 JavaScript | 📅 2024-03-25)*.
 * [Proxx](https://proxx.app) A game of proximity by GoogleChromeLabs using preact. *([Github project](https://github.com/GoogleChromeLabs/proxx) ⭐ 1,359 | 🐛 130 | 🌐 TypeScript | 📅 2026-06-22)*.
@@ -198,7 +198,7 @@
 
 ### Related Libraries
 
-* [React](https://github.com/facebook/react) ⭐ 248,006 | 🐛 1,282 | 🌐 JavaScript | 📅 2026-08-28 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [React](https://github.com/facebook/react) ⭐ 248,015 | 🐛 1,281 | 🌐 JavaScript | 📅 2026-08-28 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [Inferno](https://github.com/infernojs/inferno) ⭐ 16,456 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-19 - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [Rax](https://github.com/alibaba/rax) ⭐ 8,020 | 🐛 80 | 🌐 JavaScript | 📅 2023-03-27 - A universal React-compatible render engine.
 * [Zikojs](https://github.com/zakarialaoui10/zikojs) ⭐ 133 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.
@@ -222,4 +222,4 @@ Make sure you follow the [guidelines](/contributing.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

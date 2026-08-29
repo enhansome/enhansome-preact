@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "homepage": "https://storybook.js.org",
             "id": 54173593,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:09:18Z",
+            "open_issues": 1774,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90957
+            "stars": 90958,
+            "topics": [
+              "angular",
+              "components",
+              "design-systems",
+              "documentation",
+              "html",
+              "javascript",
+              "react",
+              "react-native",
+              "stories",
+              "storybook",
+              "styleguide",
+              "svelte",
+              "testing",
+              "typescript",
+              "ui",
+              "vite",
+              "vue",
+              "web-components",
+              "webpack",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -26,12 +52,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation frontend tooling. It's fast!",
+            "homepage": "http://vite.dev",
             "id": 257485422,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:47:39Z",
+            "open_issues": 771,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82575
+            "stars": 82575,
+            "topics": [
+              "build-tool",
+              "dev-server",
+              "frontend",
+              "hmr",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -42,12 +79,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Override create-react-app webpack configs without ejecting",
+            "homepage": null,
             "id": 65231883,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T02:27:35Z",
+            "open_issues": 24,
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9841
+            "stars": 9841,
+            "topics": [
+              "config",
+              "create-react-app",
+              "eject",
+              "never",
+              "react",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -58,12 +107,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it)",
+            "homepage": null,
             "id": 45947467,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-15T17:20:52Z",
+            "open_issues": 168,
             "owner": "insin",
             "repo": "nwb",
-            "stars": 5535
+            "stars": 5535,
+            "topics": [
+              "babel",
+              "inferno",
+              "javascript",
+              "karma",
+              "npm-module",
+              "preact",
+              "react",
+              "react-component",
+              "toolkit",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -74,12 +139,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😺 Your next Preact PWA starts in 30 seconds.",
+            "homepage": null,
             "id": 91839306,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-27T18:12:14Z",
+            "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4668
+            "stars": 4668,
+            "topics": [
+              "cli",
+              "hacktoberfest",
+              "http2",
+              "preact",
+              "prpl",
+              "pwa",
+              "starter-kit"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -90,12 +168,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Create Preact apps with no build configuration.",
+            "homepage": null,
             "id": 71185020,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-31T18:04:13Z",
+            "open_issues": 4,
             "owner": "just-boris",
             "repo": "create-preact-app",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "build-tools",
+              "cli",
+              "create-react-app",
+              "preact",
+              "scaffold",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -106,12 +196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Removes default postcss config and instead will use postcss.config.js",
+            "homepage": null,
             "id": 96821854,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-10T03:24:31Z",
+            "open_issues": 7,
             "owner": "SaraVieira",
             "repo": "preact-cli-postcss",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -122,12 +217,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The documentation framework for Preact projects",
+            "homepage": "https://kamod-ch.github.io/preactpress/",
             "id": 1263346675,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:35:48Z",
+            "open_issues": 0,
             "owner": "kamod-ch",
             "repo": "preactpress",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "documentation",
+              "documentation-site",
+              "headless-cms",
+              "mdx",
+              "preact",
+              "preactjs",
+              "static-site-generator",
+              "static-site-generators",
+              "typescript",
+              "vite",
+              "vitest"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -144,12 +256,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":guitar: Ready-to-rock Preact starter project, powered by Webpack.",
+            "homepage": "https://preact-boilerplate.surge.sh",
             "id": 49995432,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-09-12T07:25:52Z",
+            "open_issues": 35,
             "owner": "developit",
             "repo": "preact-boilerplate",
-            "stars": 961
+            "stars": 961,
+            "topics": [
+              "boilerplate",
+              "css-modules",
+              "development-workflow",
+              "preact",
+              "pwa",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -160,12 +284,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.",
+            "homepage": null,
             "id": 347532125,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-09T08:03:48Z",
+            "open_issues": 7,
             "owner": "Debdut",
             "repo": "browser-extension",
-            "stars": 692
+            "stars": 692,
+            "topics": [
+              "boilerplate",
+              "chrome-extension",
+              "postcss",
+              "preact",
+              "starter",
+              "starter-kit",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -176,12 +313,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super fast progressive web app with small footprint & minimal dependancies",
+            "homepage": "https://preact-pwa-yfxiijbzit.now.sh/",
             "id": 77597037,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-12T02:48:39Z",
+            "open_issues": 7,
             "owner": "ezekielchentnik",
             "repo": "preact-pwa",
-            "stars": 504
+            "stars": 504,
+            "topics": [
+              "buble",
+              "optimize-js",
+              "performance",
+              "preact",
+              "redux",
+              "rollup",
+              "service-worker"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -192,12 +342,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webpack3 boilerplate for building SPA / PWA / offline front-end apps with Preact",
+            "homepage": "https://preact-starter.now.sh/",
             "id": 78304781,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-23T18:48:47Z",
+            "open_issues": 3,
             "owner": "lukeed",
             "repo": "preact-starter",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "boilerplate",
+              "offline",
+              "preact",
+              "progressive-web-app",
+              "pwa",
+              "spa",
+              "starter-kit",
+              "webpack",
+              "webpack3"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -208,12 +373,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PWA Simple Starter with Preact, Preact-mdl and Webpack2  🔥🔥🔥",
+            "homepage": "https://preact-app.surge.sh",
             "id": 76499195,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-10-18T23:12:26Z",
+            "open_issues": 13,
             "owner": "ooade",
             "repo": "PreactSimpleStarter",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "development-workflow",
+              "preact",
+              "progressive-web-app",
+              "starter-kit",
+              "webpack",
+              "webpack-dashboard"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -224,12 +401,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Barebones starter project for Preact with TypeScript",
+            "homepage": null,
             "id": 77359592,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-07-21T11:29:49Z",
+            "open_issues": 32,
             "owner": "nickytonline",
             "repo": "ts-preact-starter",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "preact",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -240,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Preact](https://preactjs.com/) Server-side Rendering with Redux Example",
+            "homepage": null,
             "id": 65012083,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-09-30T06:17:51Z",
+            "open_issues": 0,
             "owner": "csbun",
             "repo": "preact-redux-ssr-example",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -256,12 +446,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ WebExtension Vite Starter Template with Preact",
+            "homepage": null,
             "id": 394264405,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-08-09T11:27:41Z",
+            "open_issues": 1,
             "owner": "PiyushSuthar",
             "repo": "preact-webext",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "extension",
+              "extension-chrome",
+              "hacktoberfest",
+              "preact",
+              "typescript",
+              "web-extension"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -272,12 +474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic, high-powered Preact boilerplate",
+            "homepage": null,
             "id": 213480369,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-07T23:25:44Z",
+            "open_issues": 1,
             "owner": "kolodziejczakM",
             "repo": "preact-modern-startupper",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -288,12 +495,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Preact PWA template with support for TypeScript + SASS (131 Kb)",
+            "homepage": "https://preact-typescript-pwa-starter.firebaseapp.com/",
             "id": 200446148,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-09-13T02:28:05Z",
+            "open_issues": 0,
             "owner": "bmitchinson",
             "repo": "old-preact-typescript-pwa-starter",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "preact",
+              "preact-router",
+              "pwa",
+              "pwa-boilerplate",
+              "sass",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -304,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate for an Electron app written in Typescript/JSX",
+            "homepage": null,
             "id": 436708817,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-12-14T11:46:50Z",
+            "open_issues": 0,
             "owner": "yoctopuce-examples",
             "repo": "electron-typescript-preact-boilerplate",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -320,12 +544,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A boilerplate starter for building lightweight desktop applications",
+            "homepage": null,
             "id": 502429139,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-21T23:09:13Z",
+            "open_issues": 11,
             "owner": "Terminats",
             "repo": "preact-neutralino-typescript-starter",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "boilerplate-template",
+              "desktop-application",
+              "neutralinojs",
+              "preact",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -336,12 +571,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with Preact and Deno  ",
+            "homepage": null,
             "id": 645560052,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-06-01T07:33:04Z",
+            "open_issues": 0,
             "owner": "nesterow",
             "repo": "minizavr",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "boilerplate-template",
+              "deno",
+              "denoland",
+              "preact",
+              "preact-app"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -358,12 +604,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥢 A minimalist-friendly ~2.2KB routing for React and Preact",
+            "homepage": "https://npm.im/wouter",
             "id": 180418592,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2026-08-21T16:12:40Z",
+            "open_issues": 30,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7867
+            "stars": 7867,
+            "topics": [
+              "hacktoberfest",
+              "microlibrary",
+              "preact",
+              "react",
+              "react-hooks",
+              "react-router",
+              "router",
+              "typescript",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -374,12 +635,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_americas: URL router for Preact.",
+            "homepage": "http://npm.im/preact-router",
             "id": 46458028,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-29T18:35:53Z",
+            "open_issues": 96,
             "owner": "preactjs",
             "repo": "preact-router",
-            "stars": 1052
+            "stars": 1052,
+            "topics": [
+              "preact",
+              "preact-components",
+              "preact-router",
+              "router"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -390,12 +661,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy asynchronous loading for your router components. For 440B.",
+            "homepage": null,
             "id": 145987000,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-28T20:59:59Z",
+            "open_issues": 0,
             "owner": "mjanssen",
             "repo": "preact-route-async",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "microbundle",
+              "preact",
+              "preact-components",
+              "preact-router"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -406,12 +687,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "universal file based router ",
+            "homepage": "https://ufbr.netlify.app/",
             "id": 1141782494,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:52:50Z",
+            "open_issues": 0,
             "owner": "zakarialaoui10",
             "repo": "ufbr",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "file-based-routing",
+              "javascript",
+              "netlify",
+              "netlify-deployment",
+              "preact",
+              "routing",
+              "single-page-app",
+              "solidjs",
+              "svelte",
+              "vanjs",
+              "vue",
+              "zikojs"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -428,12 +727,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -444,12 +769,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ATTENTION: The React compatibility layer for Preact has moved to the main preact repo.",
+            "homepage": "http://npm.im/preact-compat",
             "id": 45793760,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-15T21:41:31Z",
+            "open_issues": 46,
             "owner": "preactjs",
             "repo": "preact-compat",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "compatibility",
+              "preact",
+              "react",
+              "react-dom",
+              "virtual-dom"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -460,12 +796,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📄 Universal rendering for Preact: render JSX and Preact components to HTML.",
+            "homepage": "http://npm.im/preact-render-to-string",
             "id": 44454813,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:09:29Z",
+            "open_issues": 31,
             "owner": "preactjs",
             "repo": "preact-render-to-string",
-            "stars": 724
+            "stars": 724,
+            "topics": [
+              "html",
+              "preact",
+              "preact-components",
+              "universal"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -476,12 +822,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "preact wrapper for \"Material Components for the web\"",
+            "homepage": "https://material.preactjs.com",
             "id": 82581631,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-11-28T11:08:04Z",
+            "open_issues": 59,
             "owner": "prateekbh",
             "repo": "preact-material-components",
-            "stars": 554
+            "stars": 554,
+            "topics": [
+              "material-components",
+              "preact",
+              "preact-components"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -492,12 +847,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nuxt I18n Micro is a fast, simple, and lightweight internationalization (i18n) module for Nuxt",
+            "homepage": "https://s00d.github.io/nuxt-i18n-micro/",
             "id": 842990422,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:35:53Z",
+            "open_issues": 0,
             "owner": "s00d",
             "repo": "nuxt-i18n-micro",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "i18n",
+              "internationalization",
+              "localization",
+              "multi-language",
+              "nuxt",
+              "nuxt-module",
+              "nuxt3",
+              "performance",
+              "seo",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -508,12 +879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":card_index: Virtual List that only renders visible items. Supports millions of rows.",
+            "homepage": "https://jsfiddle.net/developit/qqan9pdo/",
             "id": 56397188,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-07-22T23:14:11Z",
+            "open_issues": 7,
             "owner": "developit",
             "repo": "preact-virtual-list",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -524,12 +900,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Render HTML5 as VDOM, with Components as Custom Elements!",
+            "homepage": "http://npm.im/preact-markup",
             "id": 50375662,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-28T22:52:20Z",
+            "open_issues": 15,
             "owner": "developit",
             "repo": "preact-markup",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "dom",
+              "html-renderer",
+              "jsx",
+              "markdown",
+              "markup",
+              "parse",
+              "preact",
+              "preact-components",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -540,12 +931,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅ A minimal UI kit for Preact",
+            "homepage": "https://ajainvivek.github.io/preact-fluid/",
             "id": 110067296,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-04T03:44:43Z",
+            "open_issues": 9,
             "owner": "ajainvivek",
             "repo": "preact-fluid",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "minimal-ui-kit",
+              "preact",
+              "preact-components",
+              "preact-ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -556,12 +957,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":boom: A collection of Preact Components that encapsulate Google's Material Design Lite.",
+            "homepage": null,
             "id": 50541843,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-18T23:43:09Z",
+            "open_issues": 11,
             "owner": "developit",
             "repo": "preact-mdl",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "material",
+              "material-design",
+              "mdl",
+              "preact",
+              "ui",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -572,12 +985,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Beautiful desktop apps with Preact + Photon :heart:",
+            "homepage": "http://npm.im/preact-photon",
             "id": 44423363,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-02T00:56:39Z",
+            "open_issues": 3,
             "owner": "developit",
             "repo": "preact-photon",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "desktop",
+              "desktop-app",
+              "electron",
+              "photon",
+              "preact",
+              "preact-photon",
+              "ui",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -588,12 +1015,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":satellite: Render Preact components in (a) SPACE :milky_way: :stars:",
+            "homepage": "http://npm.im/preact-portal",
             "id": 53229795,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-06T09:38:43Z",
+            "open_issues": 8,
             "owner": "developit",
             "repo": "preact-portal",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "dom",
+              "preact",
+              "preact-components",
+              "preact-portal"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -604,12 +1041,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":recycle: Minimal functional Virtual DOM rendering using Preact :bike:",
+            "homepage": "https://developit.github.io/preact-cycle/",
             "id": 51331689,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-08T20:18:53Z",
+            "open_issues": 2,
             "owner": "developit",
             "repo": "preact-cycle",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "preact",
+              "preact-components"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -620,12 +1065,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async route component for preact-router",
+            "homepage": null,
             "id": 82140643,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-06T18:53:30Z",
+            "open_issues": 19,
             "owner": "prateekbh",
             "repo": "preact-async-route",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "code-splitting",
+              "preact",
+              "preact-router",
+              "prpl"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -636,12 +1091,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":camera: Mini Image Lazy Loader for P(R)eact and Vue",
+            "homepage": "https://pimg.surge.sh",
             "id": 115420104,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-12-11T18:00:35Z",
+            "open_issues": 2,
             "owner": "ooade",
             "repo": "pimg",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "cloudinary",
+              "image",
+              "image-processing",
+              "lazy",
+              "lazy-loading",
+              "preact",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -652,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A document head manager for Preact",
+            "homepage": null,
             "id": 81131160,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-07-31T12:20:19Z",
+            "open_issues": 10,
             "owner": "Download",
             "repo": "preact-helmet",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -668,12 +1141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic translate (i18n) library for Preact",
+            "homepage": null,
             "id": 197387997,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-17T16:49:18Z",
+            "open_issues": 17,
             "owner": "DenysVuika",
             "repo": "preact-translate",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "i18n",
+              "preact",
+              "preact-components",
+              "preact-x",
+              "translation",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -684,12 +1169,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bookmark: A text field that tokenizes input, for things like tags.",
+            "homepage": "http://npm.im/preact-token-input",
             "id": 48465856,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-29T09:00:59Z",
+            "open_issues": 2,
             "owner": "developit",
             "repo": "preact-token-input",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "preact",
+              "preact-components",
+              "tag-input",
+              "tagging",
+              "tags"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -700,12 +1196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dead simple form library for React/Preact.",
+            "homepage": "https://mobiushorizons.github.com/mu-forms",
             "id": 125301877,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-02-09T18:38:22Z",
+            "open_issues": 3,
             "owner": "MobiusHorizons",
             "repo": "mu-forms",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -716,12 +1217,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preact components for easily implementing basic CSS animations and transitions",
+            "homepage": "https://fakundo.github.io/preact-transitioning/",
             "id": 241641703,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T19:00:51Z",
+            "open_issues": 11,
             "owner": "fakundo",
             "repo": "preact-transitioning",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "animation",
+              "preact",
+              "transition",
+              "transition-group"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -732,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and lightweight (~590 bytes gzip) progress bar component for Preact",
+            "homepage": "https://jsfiddle.net/lukeed/kws8r5v4/",
             "id": 82024694,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-15T08:26:08Z",
+            "open_issues": 0,
             "owner": "lukeed",
             "repo": "preact-progress",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -748,12 +1264,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A utility method to create preact components without using class keyword",
+            "homepage": null,
             "id": 57251253,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-11T20:37:12Z",
+            "open_issues": 12,
             "owner": "laurencedorman",
             "repo": "preact-classless-component",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -764,12 +1285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A (800b gzip) header that will show/hide while scrolling for Preact",
+            "homepage": "https://jsfiddle.net/lukeed/cyfjsk50/",
             "id": 83077286,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-25T17:27:04Z",
+            "open_issues": 0,
             "owner": "lukeed",
             "repo": "preact-scroll-header",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -780,12 +1306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":newspaper: A text field that supports HTML editing. :memo:",
+            "homepage": "http://npm.im/preact-richtextarea",
             "id": 48508284,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-17T20:03:14Z",
+            "open_issues": 1,
             "owner": "developit",
             "repo": "preact-richtextarea",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -796,12 +1327,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":shaved_ice: Shave some bytes by using Preact.",
+            "homepage": null,
             "id": 65661776,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-04T08:10:23Z",
+            "open_issues": 1,
             "owner": "vutran",
             "repo": "preact-codemod",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "codemod",
+              "javascript",
+              "jscodeshift",
+              "preact",
+              "react",
+              "transpiler"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -812,12 +1355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep your translations in line - with Preact!",
+            "homepage": null,
             "id": 72428172,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-28T20:47:47Z",
+            "open_issues": 1,
             "owner": "Download",
             "repo": "preact-i18nline",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -828,12 +1376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preact Components for MUI CSS framework.",
+            "homepage": "http://preact-mui.surge.sh/",
             "id": 75875751,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-08T12:30:13Z",
+            "open_issues": 1,
             "owner": "luisvinicius167",
             "repo": "preact-mui",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -844,12 +1397,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standalone, declarative <Head /> for Preact.",
+            "homepage": null,
             "id": 90114632,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-04T01:00:52Z",
+            "open_issues": 14,
             "owner": "matthewmueller",
             "repo": "preact-head",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "head",
+              "hoc",
+              "preact"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -860,12 +1422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stand alone shallowCompare for use in libraries that support shouldComponentUpdate",
+            "homepage": null,
             "id": 72120852,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-09-28T19:36:20Z",
+            "open_issues": 0,
             "owner": "tkh44",
             "repo": "shallow-compare",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -876,12 +1443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyperscript-like syntax for creating Preact elements",
+            "homepage": null,
             "id": 63601775,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-18T12:23:48Z",
+            "open_issues": 5,
             "owner": "queckezz",
             "repo": "preact-hyperscript",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -892,12 +1464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preact component for Feather icons",
+            "homepage": null,
             "id": 101441340,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T10:18:18Z",
+            "open_issues": 11,
             "owner": "ForsakenHarmony",
             "repo": "preact-feather",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -908,12 +1485,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A console emulator for preact.",
+            "homepage": null,
             "id": 133275696,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-03T08:45:23Z",
+            "open_issues": 4,
             "owner": "haensl",
             "repo": "preact-component-console",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "console",
+              "preact",
+              "preact-components",
+              "terminal",
+              "terminal-emulator",
+              "typewriter"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -924,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile UI Components built on Preact. Ported from Vant.",
+            "homepage": "https://webyom.github.io/pant/",
             "id": 242304947,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-05T08:05:12Z",
+            "open_issues": 29,
             "owner": "webyom",
             "repo": "pant",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -940,12 +1534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Isomorphic utilities, components and hooks for Fresh and Preact.",
+            "homepage": null,
             "id": 592504732,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-25T16:54:49Z",
+            "open_issues": 1,
             "owner": "nesterow",
             "repo": "tailored",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "deno",
+              "jsx",
+              "partial-hydration",
+              "preact",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -956,12 +1561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A touch and drag and droppable dock for single page web applications.",
+            "homepage": null,
             "id": 279901504,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T11:38:04Z",
+            "open_issues": 6,
             "owner": "TimDaub",
             "repo": "preact-touchable-dock",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -972,12 +1582,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preact delegate DOM events",
+            "homepage": null,
             "id": 83734347,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-03T01:42:41Z",
+            "open_issues": 0,
             "owner": "NekR",
             "repo": "preact-delegate",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "delegate",
+              "dom",
+              "events",
+              "preact"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -988,12 +1608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animate your components on state change",
+            "homepage": "https://www.npmjs.com/package/preact-animate-on-change",
             "id": 111593591,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-04T08:08:29Z",
+            "open_issues": 0,
             "owner": "Sobesednik",
             "repo": "preact-animate-on-change",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1004,12 +1629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "preact plugin for socrates.",
+            "homepage": null,
             "id": 53117941,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-04T15:34:38Z",
+            "open_issues": 0,
             "owner": "matthewmueller",
             "repo": "preact-socrates",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1020,12 +1650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by theadam/react-flyd",
+            "homepage": null,
             "id": 63354835,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-14T05:01:21Z",
+            "open_issues": 2,
             "owner": "xialvjun",
             "repo": "preact-flyd",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1036,12 +1671,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create components whose nested prop changes map to a global side effect",
+            "homepage": null,
             "id": 79583031,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-14T15:06:57Z",
+            "open_issues": 0,
             "owner": "ooade",
             "repo": "preact-side-effect",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "preact",
+              "preact-side-effect",
+              "react",
+              "react-side-effect"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1052,12 +1697,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preact component system / shadcn-style approach for Preact",
+            "homepage": "https://ui.kamod.ch/",
             "id": 1182482104,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T00:35:32Z",
+            "open_issues": 11,
             "owner": "kamod-ch",
             "repo": "kamod-ui",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "component-library",
+              "css-framework",
+              "preact",
+              "tailwindcss",
+              "tailwindcss-v4",
+              "ui",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1068,12 +1726,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Preact component for skipping server side rendering (SSR) of components. This component helps render components on the server that make sense to be rendered above the fold or that only makes sense to render on client.",
+            "homepage": null,
             "id": 90224044,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-11T20:19:03Z",
+            "open_issues": 0,
             "owner": "ezekielchentnik",
             "repo": "preact-no-ssr",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "above-the-fold",
+              "isomorphic",
+              "preact",
+              "progressive-web-app",
+              "rollem",
+              "rollup",
+              "ssr",
+              "universal-javascript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1084,12 +1756,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Live updating leveldb list component for preact",
+            "homepage": null,
             "id": 107021062,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-15T14:47:57Z",
+            "open_issues": 0,
             "owner": "juliangruber",
             "repo": "preact-level-list",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1100,12 +1777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 103034671,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-09-21T09:56:51Z",
+            "open_issues": 0,
             "owner": "KwanMan",
             "repo": "preact-tiny-atom",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1116,12 +1798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flagstrap jquery plugin ported to preact",
+            "homepage": null,
             "id": 110459479,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-11-12T22:34:44Z",
+            "open_issues": 0,
             "owner": "bboydflo",
             "repo": "flagstrap-preact",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1132,12 +1819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A preact mobile and desktop-ready UI component for adding and removing nominal values (e.g. for voting)",
+            "homepage": null,
             "id": 442484312,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-07T20:57:50Z",
+            "open_issues": 0,
             "owner": "TimDaub",
             "repo": "preact-nominal-allocator",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1148,12 +1840,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reusable Preact-based filter builder UI component with AND/OR boolean connectors.",
+            "homepage": null,
             "id": 1138560053,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-11T10:17:19Z",
+            "open_issues": 0,
             "owner": "dimidd",
             "repo": "preact-filter-builder",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "boolean-logic",
+              "filter",
+              "preact"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -1170,12 +1871,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👻 Primitive and flexible state management for React",
+            "homepage": "https://jotai.org",
             "id": 286867459,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:32:54Z",
+            "open_issues": 4,
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21246
+            "stars": 21247,
+            "topics": [
+              "atomic",
+              "hacktoberfest",
+              "management",
+              "react",
+              "state"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1186,12 +1898,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.",
+            "homepage": "https://urql.dev",
             "id": 118695306,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T16:07:52Z",
+            "open_issues": 30,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8967
+            "stars": 8967,
+            "topics": [
+              "complex-apps",
+              "exchange",
+              "graphql",
+              "graphql-client",
+              "graphql-clients"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1202,12 +1925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores",
+            "homepage": null,
             "id": 304120355,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:06:15Z",
+            "open_issues": 21,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7582
+            "stars": 7582,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1218,12 +1946,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌶 350b / 650b state container with component actions for Preact & React",
+            "homepage": "https://npm.im/unistore",
             "id": 113351554,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-07T10:00:27Z",
+            "open_issues": 46,
             "owner": "developit",
             "repo": "unistore",
-            "stars": 2846
+            "stars": 2846,
+            "topics": [
+              "architecture",
+              "preact",
+              "redux",
+              "state",
+              "subscription",
+              "unistore"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1234,12 +1974,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight state container based on Redux ",
+            "homepage": "https://matheusml1.gitbooks.io/redux-zero-docs/content/",
             "id": 105929410,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T07:50:42Z",
+            "open_issues": 111,
             "owner": "redux-zero",
             "repo": "redux-zero",
-            "stars": 1961
+            "stars": 1961,
+            "topics": [
+              "flux",
+              "functional",
+              "lightweight",
+              "preact",
+              "react",
+              "react-native",
+              "redux",
+              "small",
+              "state",
+              "svelte",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1250,12 +2007,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The modular and type-safe form library for SolidJS, Qwik and Preact",
+            "homepage": "https://modularforms.dev",
             "id": 554347622,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-06T18:28:24Z",
+            "open_issues": 124,
             "owner": "fabian-hiller",
             "repo": "modular-forms",
-            "stars": 1212
+            "stars": 1212,
+            "topics": [
+              "bundle-size",
+              "form",
+              "form-validation",
+              "forms",
+              "performance",
+              "preact",
+              "qwik",
+              "signals",
+              "solid",
+              "type-safe",
+              "typescript",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1266,12 +2041,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍵 Tiny, easy and powerful React state management",
+            "homepage": "https://npm.im/teaful",
             "id": 346826188,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-09T19:40:58Z",
+            "open_issues": 18,
             "owner": "teafuljs",
             "repo": "teaful",
-            "stars": 712
+            "stars": 712,
+            "topics": [
+              "easy",
+              "fragmented",
+              "javascript",
+              "management",
+              "performance",
+              "preact",
+              "react",
+              "state",
+              "state-management",
+              "store",
+              "teaful",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1282,12 +2075,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hooks to populate the html head.",
+            "homepage": null,
             "id": 252484796,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-19T09:40:27Z",
+            "open_issues": 9,
             "owner": "0no-co",
             "repo": "hoofd",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "head",
+              "html",
+              "react",
+              "react-hooks",
+              "seo"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1298,12 +2102,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔅 State manager for deeply nested states",
+            "homepage": "https://exome.js.org",
             "id": 353644602,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-29T08:05:12Z",
+            "open_issues": 1,
             "owner": "Marcisbee",
             "repo": "exome",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "exome",
+              "javascript",
+              "js",
+              "react",
+              "state",
+              "state-management",
+              "state-manager",
+              "state-tree",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1314,12 +2133,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fpreact provides an alternative api for creating preact components, heavily inspired by elm.",
+            "homepage": null,
             "id": 106613876,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-10-15T14:40:51Z",
+            "open_issues": 0,
             "owner": "jamesbirtles",
             "repo": "fpreact",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "preact"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1330,12 +2156,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Light, elegant animation plugin for Preact (powered by Motion.dev and WAAPI)",
+            "homepage": null,
             "id": 1018267883,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-23T23:53:31Z",
+            "open_issues": 1,
             "owner": "alloc",
             "repo": "preact-in-motion",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "animation",
+              "javascript",
+              "motion",
+              "preact",
+              "typescript",
+              "waapi"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1346,12 +2184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClearX is an alternative way to Redux and MobX to maintain the application state and provides a simple interface to bind it to UI components.",
+            "homepage": null,
             "id": 267699710,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-03-12T05:53:06Z",
+            "open_issues": 0,
             "owner": "Autodesk",
             "repo": "clearx",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1362,12 +2205,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "turns foreign components into native zikojs components",
+            "homepage": null,
             "id": 971682267,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T08:23:50Z",
+            "open_issues": 0,
             "owner": "zikojs",
             "repo": "zikofy",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "javascript",
+              "jsx",
+              "morocco",
+              "preact",
+              "react",
+              "solidjs",
+              "svelte",
+              "vue",
+              "wrapper",
+              "zikojs"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1378,12 +2237,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact.",
+            "homepage": "https://jsr.io/@pretch",
             "id": 864785707,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-09T23:14:34Z",
+            "open_issues": 0,
             "owner": "EGAMAGZ",
             "repo": "pretch",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "bun",
+              "deno",
+              "fetch",
+              "hacktoberfest",
+              "nodejs",
+              "preact",
+              "react",
+              "vanilla-javascript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1394,12 +2267,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preact hooks library ported from ahooks",
+            "homepage": "https://kamod-ch.github.io/kamod-hooks/",
             "id": 1237886477,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-27T20:42:56Z",
+            "open_issues": 1,
             "owner": "kamod-ch",
             "repo": "kamod-hooks",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "hooks",
+              "preact"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -1416,12 +2297,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏝 Create your own slice of paradise on any website.",
+            "homepage": null,
             "id": 491629359,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-21T20:42:26Z",
+            "open_issues": 3,
             "owner": "mwood23",
             "repo": "preact-island",
-            "stars": 236
+            "stars": 236,
+            "topics": [
+              "habitat",
+              "preact",
+              "shopify-app"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1432,12 +2322,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render preact components with access to the produced virtual dom for testing.",
+            "homepage": "https://www.npmjs.com/package/preact-render-spy",
             "id": 94256499,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-01-12T09:51:40Z",
+            "open_issues": 32,
             "owner": "mzgoddard",
             "repo": "preact-render-spy",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "jsx",
+              "preact",
+              "test",
+              "testing",
+              "vdom"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1448,12 +2349,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and complete Preact DOM testing utilities that encourage good testing practices. ",
+            "homepage": null,
             "id": 128426585,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-05T06:37:10Z",
+            "open_issues": 13,
             "owner": "testing-library",
             "repo": "preact-testing-library",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1464,12 +2372,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":white_check_mark: Add JSX assertions to Chai, with support for Preact Components.",
+            "homepage": "http://npm.im/preact-jsx-chai",
             "id": 48400736,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-29T20:15:31Z",
+            "open_issues": 7,
             "owner": "developit",
             "repo": "preact-jsx-chai",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "chai",
+              "chai-plugin",
+              "jsx-assertions",
+              "jsx-chai",
+              "preact",
+              "test",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1480,12 +2401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mock react-test-utils method enzyme used for preact.",
+            "homepage": null,
             "id": 81398097,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-25T11:02:38Z",
+            "open_issues": 1,
             "owner": "windyGex",
             "repo": "preact-test-utils",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -1502,12 +2428,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-first, open-source home assistant",
+            "homepage": "https://gladysassistant.com",
             "id": 36928490,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T18:06:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:29:25Z",
+            "open_issues": 51,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3163
+            "stars": 3164,
+            "topics": [
+              "assistant",
+              "automation",
+              "gladys",
+              "home",
+              "home-automation",
+              "iot",
+              "nodejs",
+              "raspberry-pi",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1518,12 +2459,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazing fast & offline frontend code editor",
+            "homepage": "https://webmaker.app",
             "id": 57886296,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T22:28:28Z",
+            "open_issues": 120,
             "owner": "chinchang",
             "repo": "web-maker",
-            "stars": 2695
+            "stars": 2695,
+            "topics": [
+              "chrome-extension",
+              "chrome-tabs",
+              "code-editor",
+              "offline",
+              "playground",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1534,12 +2487,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free live chat widget linked to your Telegram messenger",
+            "homepage": "https://www.intergram.xyz",
             "id": 77236059,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-03-25T20:59:27Z",
+            "open_issues": 73,
             "owner": "idoco",
             "repo": "intergram",
-            "stars": 1416
+            "stars": 1416,
+            "topics": [
+              "chat-widget",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1550,12 +2512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game of proximity",
+            "homepage": "https://proxx.app",
             "id": 173133112,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T04:48:55Z",
+            "open_issues": 130,
             "owner": "GoogleChromeLabs",
             "repo": "proxx",
-            "stars": 1359
+            "stars": 1359,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1566,12 +2533,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://macos-preact.now.sh",
             "id": 313656214,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-29T13:58:04Z",
+            "open_issues": 13,
             "owner": "PuruVJ",
             "repo": "macos-preact",
-            "stars": 1040
+            "stars": 1040,
+            "topics": [
+              "bigsur",
+              "css",
+              "css-modules",
+              "desktop",
+              "html",
+              "html-css-javascript",
+              "javascript",
+              "macos",
+              "preact",
+              "typescript",
+              "vite",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1582,12 +2567,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web",
+            "homepage": "https://bitmidi.com",
             "id": 135546337,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-27T18:50:52Z",
+            "open_issues": 34,
             "owner": "feross",
             "repo": "bitmidi.com",
-            "stars": 617
+            "stars": 617,
+            "topics": [
+              "audio",
+              "javascript",
+              "midi",
+              "midi-files",
+              "midi-player",
+              "music",
+              "nodejs",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1598,12 +2597,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡",
+            "homepage": "https://win11.vercel.app",
             "id": 380294094,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-21T09:33:47Z",
+            "open_issues": 5,
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 601
+            "stars": 601,
+            "topics": [
+              "hacktoberfest",
+              "typescript",
+              "windows-11",
+              "windows-11-web",
+              "windows-web",
+              "windows11"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1614,12 +2625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demonstration of Preact used to build Hacker News as a PWA.",
+            "homepage": null,
             "id": 84757332,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-04-16T16:48:15Z",
+            "open_issues": 9,
             "owner": "kristoferbaxter",
             "repo": "preact-hn",
-            "stars": 295
+            "stars": 295,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1630,12 +2646,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://gurivr.com",
+            "homepage": null,
             "id": 62897064,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-09T12:25:46Z",
+            "open_issues": 23,
             "owner": "OpenNewsLabs",
             "repo": "guri-vr",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "nlp",
+              "virtual-reality",
+              "vr",
+              "webvr"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1646,12 +2672,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍⚖️ Dynamic licenses for your projects - no more LICENSE.txt!",
+            "homepage": "https://oss.ninja",
             "id": 116985838,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-01T04:30:53Z",
+            "open_issues": 2,
             "owner": "developit",
             "repo": "oss.ninja",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "app",
+              "license",
+              "licenses",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1662,12 +2698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 70817266,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-06T21:25:04Z",
+            "open_issues": 7,
             "owner": "jakearchibald",
             "repo": "big-web-quiz",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1678,12 +2719,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💣 TodoMVC done in Preact. Under 6kb and fast.",
+            "homepage": "https://preact-todomvc.surge.sh",
             "id": 47047829,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-30T12:16:58Z",
+            "open_issues": 3,
             "owner": "developit",
             "repo": "preact-todomvc",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "demo",
+              "preact",
+              "todomvc"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1694,12 +2744,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: A PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.",
+            "homepage": "https://colors.now.sh",
             "id": 77184595,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-26T19:52:15Z",
+            "open_issues": 4,
             "owner": "lukeed",
             "repo": "colors-app",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "color",
+              "color-palette",
+              "color-picker",
+              "color-scheme",
+              "material",
+              "preact",
+              "preact-app",
+              "progressive-web-app",
+              "pwa"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1710,12 +2775,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎈 A 16kb Preact & Redux based Progressive Web App that offers an offline gallery experience of external images.",
+            "homepage": "https://use-the-platform.com/offline-gallery/",
             "id": 87121695,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-19T22:07:43Z",
+            "open_issues": 1,
             "owner": "vaneenige",
             "repo": "offline-gallery",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "cache",
+              "experiment",
+              "offline",
+              "preact",
+              "pwa",
+              "redux",
+              "service-worker"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1726,12 +2804,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💡Simple controller for your Philips Hue lights, based on web technologies.",
+            "homepage": null,
             "id": 88194674,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-16T08:57:08Z",
+            "open_issues": 1,
             "owner": "quartercastle",
             "repo": "hueify",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "app",
+              "controller",
+              "electron",
+              "hue",
+              "hueify",
+              "mac",
+              "philips",
+              "preact"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1742,12 +2834,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎶 Music lovers, rejoice.",
+            "homepage": "https://play.cash",
             "id": 82118289,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T05:30:27Z",
+            "open_issues": 43,
             "owner": "feross",
             "repo": "play.cash",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "listen",
+              "music",
+              "music-video",
+              "playlist",
+              "songs",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1758,12 +2862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passwords Fountain - modern & performant password manager interface which works everywhere ",
+            "homepage": null,
             "id": 236342251,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-14T18:13:02Z",
+            "open_issues": 13,
             "owner": "kolodziejczakM",
             "repo": "passwords-fountain",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1774,12 +2883,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":peach: A mobile web / Android app for Peach! (peach.cool) :zap:",
+            "homepage": "http://nectarine.rocks",
             "id": 49467076,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-16T13:51:44Z",
+            "open_issues": 4,
             "owner": "developit",
             "repo": "nectarine",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "demo",
+              "nectarine",
+              "peach",
+              "preact",
+              "preact-apps",
+              "preact-demos"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1790,12 +2911,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☀️ A 17kb Preact & Redux based Progressive Web App that provides relevant information to the user outside of the tab.",
+            "homepage": "https://use-the-platform.com/periodic-weather/",
             "id": 89459481,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-01T21:36:48Z",
+            "open_issues": 3,
             "owner": "vaneenige",
             "repo": "periodic-weather",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "notifications",
+              "periodic",
+              "preact",
+              "push",
+              "pwa",
+              "redux",
+              "service-worker"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1806,12 +2940,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "14k offline-capable journaling PWA using preact, node, MySQL, and IndexedDB.",
+            "homepage": "https://preact-journal.herokuapp.com",
             "id": 103347419,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-22T06:24:27Z",
+            "open_issues": 34,
             "owner": "jpodwys",
             "repo": "preact-journal",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "journal",
+              "nodejs",
+              "offline",
+              "preact",
+              "pwa",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1822,12 +2968,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another SoundCloud Client",
+            "homepage": "http://carlosqsilva.github.io/YASCC",
             "id": 116743510,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T11:33:51Z",
+            "open_issues": 19,
             "owner": "carlosqsilva",
             "repo": "YASCC",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "indexeddb",
+              "preact",
+              "pwa",
+              "redux",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1838,12 +2995,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌈 A 20kb Preact & Redux based Progressive Web App that translates real life color to digital color.",
+            "homepage": "https://use-the-platform.com/rainbow-explorer/",
             "id": 84119493,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-19T22:09:58Z",
+            "open_issues": 1,
             "owner": "vaneenige",
             "repo": "rainbow-explorer",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "experiment",
+              "getusermedia",
+              "preact",
+              "pwa",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1854,12 +3022,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shopping List is an Offline First demo Progressive Web App built using Preact and PouchDB.",
+            "homepage": null,
             "id": 102624350,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-11T09:48:02Z",
+            "open_issues": 20,
             "owner": "ibm-watson-data-lab",
             "repo": "shopping-list-preact-pouchdb",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "demo-apps",
+              "offline-first",
+              "pouchdb",
+              "preact",
+              "progressive-web-apps"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1870,12 +3049,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PWA to add comment to Github file.",
+            "homepage": "https://code-and-comment.github.io/code-and-comment/",
             "id": 156395849,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T17:56:06Z",
+            "open_issues": 59,
             "owner": "code-and-comment",
             "repo": "code-and-comment",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "preact",
+              "preact-router",
+              "pwa",
+              "reading-code",
+              "unistore"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1886,12 +3076,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":clock2: Tracks! Opensource PWA for tracking things",
+            "homepage": "https://tracks.tmpo.io",
             "id": 79732236,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-02-21T11:14:06Z",
+            "open_issues": 3,
             "owner": "jordic",
             "repo": "tracks_preact",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "javascript",
+              "mobile",
+              "preact",
+              "pwa",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1902,12 +3103,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny Trello Clone PWA Pursuing Simplicity",
+            "homepage": "https://trellith.sakih.net/",
             "id": 663044382,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-15T00:27:20Z",
+            "open_issues": 17,
             "owner": "sakihet",
             "repo": "trellith",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "board",
+              "command-palette",
+              "kanban",
+              "offline",
+              "preact",
+              "preact-signals",
+              "pwa",
+              "trello",
+              "trello-clone"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1918,12 +3134,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deprecate due to vulnerabilities in dependencies. Rugby News Board built with Node.js and Preact",
+            "homepage": "http://www.nbrugby.com",
             "id": 92953143,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-05T17:42:31Z",
+            "open_issues": 0,
             "owner": "rugby-board",
             "repo": "rugby-board-node",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "heroku",
+              "nodejs",
+              "preact",
+              "preact-portal",
+              "preact-router",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1934,12 +3162,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor GitHub repositories for new releases.",
+            "homepage": "https://code2k.github.io/ghfresh/",
             "id": 254825348,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-07-24T08:02:09Z",
+            "open_issues": 0,
             "owner": "code2k",
             "repo": "ghfresh",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "create-react-app",
+              "markdown",
+              "material-ui",
+              "preact",
+              "prerender",
+              "react",
+              "redux",
+              "redux-toolkit",
+              "spa",
+              "testing-library",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1950,12 +3195,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vanilla Preact is a barebones starter kit for building Preact applications without build or tooling.",
+            "homepage": "https://vanilla-preact.surge.sh",
             "id": 215311211,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-25T18:07:11Z",
+            "open_issues": 0,
             "owner": "SafdarJamal",
             "repo": "vanilla-preact",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "barebones-starter-kit",
+              "es6-modules",
+              "esmodules",
+              "hacker-news",
+              "htm",
+              "javascript",
+              "no-build",
+              "no-jsx",
+              "preact",
+              "preact-app",
+              "preact-boilerplate",
+              "ui",
+              "unpkg",
+              "vanilla-preact"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1966,12 +3231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable todo app for keeping ideas",
+            "homepage": "https://miftikcz.github.io/idea-keeper-2/",
             "id": 612281535,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-05-01T12:37:55Z",
+            "open_issues": 0,
             "owner": "MiftikCZ",
             "repo": "idea-keeper-2",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -1988,12 +3258,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The library for web and native user interfaces.",
+            "homepage": "https://react.dev",
             "id": 10270250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:10:40Z",
+            "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248006
+            "stars": 248015,
+            "topics": [
+              "declarative",
+              "frontend",
+              "javascript",
+              "library",
+              "react",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -2004,12 +3286,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: An extremely fast, React-like JavaScript library for building modern user interfaces",
+            "homepage": "https://infernojs.org",
             "id": 30161665,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T12:23:11Z",
+            "open_issues": 40,
             "owner": "infernojs",
             "repo": "inferno",
-            "stars": 16456
+            "stars": 16456,
+            "topics": [
+              "inferno",
+              "inferno-component",
+              "inferno-js",
+              "javascript-library",
+              "jsx",
+              "performance",
+              "react",
+              "vdom"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -2020,12 +3316,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐰 Rax is a progressive framework for building universal application. https://rax.js.org",
+            "homepage": null,
             "id": 70887222,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-27T06:49:28Z",
+            "open_issues": 80,
             "owner": "alibaba",
             "repo": "rax",
-            "stars": 8020
+            "stars": 8020,
+            "topics": [
+              "framework",
+              "javascript",
+              "miniapp",
+              "mobile",
+              "pwa",
+              "rax",
+              "ssr",
+              "typescript",
+              "universal",
+              "web",
+              "weex"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -2036,12 +3349,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "zikojs is a javascript library with a focus on making coding effortless .",
+            "homepage": "https://zikojs-docs.netlify.app/",
             "id": 401622710,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T09:49:57Z",
+            "license": null,
+            "last_commit": "2026-08-28T22:33:38Z",
+            "open_issues": 0,
             "owner": "zikojs",
             "repo": "ziko",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "africa",
+              "framwork",
+              "javascript",
+              "math",
+              "morocco",
+              "ui",
+              "zikojs"
+            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         }
@@ -2050,15 +3376,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:34:19.696Z",
+    "last_updated": "2026-08-29T04:36:13.706Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome things regarding Preact ecosystem :star2:",
+      "homepage": null,
       "id": 79582090,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-05T22:19:42Z",
+      "open_issues": 0,
       "owner": "preactjs",
       "repo": "awesome-preact",
-      "stars": 1002
+      "stars": 1002,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jsx",
+        "preact",
+        "resources"
+      ]
     },
     "original_repository_sha": "cea45b398cb88f0a8f00dd0e6f755387060a591f",
     "enhanced_repository": "enhansome/enhansome-preact",
