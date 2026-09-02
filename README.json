@@ -15,11 +15,11 @@
             "id": 54173593,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T15:35:07Z",
-            "open_issues": 1781,
+            "last_commit": "2026-09-02T15:27:54Z",
+            "open_issues": 1786,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90981,
+            "stars": 90984,
             "topics": [
               "angular",
               "components",
@@ -57,11 +57,11 @@
             "id": 257485422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T08:39:44Z",
-            "open_issues": 767,
+            "last_commit": "2026-09-02T08:42:31Z",
+            "open_issues": 766,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82635,
+            "stars": 82655,
             "topics": [
               "build-tool",
               "dev-server",
@@ -613,7 +613,7 @@
             "open_issues": 30,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7870,
+            "stars": 7872,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -743,7 +743,7 @@
             "open_issues": 20,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8972,
             "topics": [
               "2d",
               "angular",
@@ -812,7 +812,7 @@
             "open_issues": 27,
             "owner": "preactjs",
             "repo": "preact-render-to-string",
-            "stars": 725,
+            "stars": 724,
             "topics": [
               "html",
               "preact",
@@ -863,7 +863,7 @@
             "open_issues": 0,
             "owner": "s00d",
             "repo": "nuxt-i18n-micro",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "i18n",
               "internationalization",
@@ -1229,8 +1229,8 @@
             "id": 241641703,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-09T19:00:51Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-01T15:55:17Z",
+            "open_issues": 12,
             "owner": "fakundo",
             "repo": "preact-transitioning",
             "stars": 52,
@@ -1673,6 +1673,35 @@
         },
         {
           "node_type": "item",
+          "title": "Kamod UI",
+          "description": "Lightweight Preact and Tailwind UI components (shadcn-style approach) (demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Preact component system / shadcn-style approach for Preact",
+            "homepage": "https://ui.kamod.ch/",
+            "id": 1182482104,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-02T12:08:12Z",
+            "open_issues": 12,
+            "owner": "kamod-ch",
+            "repo": "kamod-ui",
+            "stars": 11,
+            "topics": [
+              "component-library",
+              "css-framework",
+              "preact",
+              "tailwindcss",
+              "tailwindcss-v4",
+              "ui",
+              "vite"
+            ]
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
+        },
+        {
+          "node_type": "item",
           "title": "Preact Side Effect",
           "description": "Create components whose nested prop changes map to a global side effect.",
           "children": [],
@@ -1693,35 +1722,6 @@
               "preact-side-effect",
               "react",
               "react-side-effect"
-            ]
-          },
-          "first_seen": "2026-08-28T21:34:19.696Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kamod UI",
-          "description": "Lightweight Preact and Tailwind UI components (shadcn-style approach) (demo).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Preact component system / shadcn-style approach for Preact",
-            "homepage": "https://ui.kamod.ch/",
-            "id": 1182482104,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-31T18:28:54Z",
-            "open_issues": 11,
-            "owner": "kamod-ch",
-            "repo": "kamod-ui",
-            "stars": 10,
-            "topics": [
-              "component-library",
-              "css-framework",
-              "preact",
-              "tailwindcss",
-              "tailwindcss-v4",
-              "ui",
-              "vite"
             ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
@@ -1887,7 +1887,7 @@
             "open_issues": 4,
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21249,
+            "stars": 21248,
             "topics": [
               "atomic",
               "hacktoberfest",
@@ -1914,7 +1914,7 @@
             "open_issues": 30,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8970,
+            "stars": 8969,
             "topics": [
               "complex-apps",
               "exchange",
@@ -1937,11 +1937,11 @@
             "id": 304120355,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T14:48:09Z",
+            "last_commit": "2026-09-02T12:52:17Z",
             "open_issues": 21,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7589,
+            "stars": 7592,
             "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
@@ -2440,11 +2440,11 @@
             "id": 36928490,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T05:09:00Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-02T06:46:16Z",
+            "open_issues": 56,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3169,
+            "stars": 3172,
             "topics": [
               "assistant",
               "automation",
@@ -3270,11 +3270,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T17:52:30Z",
-            "open_issues": 1323,
+            "last_commit": "2026-09-02T14:03:45Z",
+            "open_issues": 1324,
             "owner": "react",
             "repo": "react",
-            "stars": 248633,
+            "stars": 248660,
             "topics": [
               "declarative",
               "frontend",
@@ -3302,7 +3302,7 @@
             "open_issues": 40,
             "owner": "infernojs",
             "repo": "inferno",
-            "stars": 16458,
+            "stars": 16459,
             "topics": [
               "inferno",
               "inferno-component",
@@ -3361,7 +3361,7 @@
             "id": 401622710,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-01T13:13:49Z",
+            "last_commit": "2026-09-02T13:56:24Z",
             "open_issues": 0,
             "owner": "zikojs",
             "repo": "ziko",
@@ -3390,7 +3390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:40:53.978Z",
+    "last_updated": "2026-09-02T15:29:35.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Preact ecosystem :star2:",
