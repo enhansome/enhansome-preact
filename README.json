@@ -15,11 +15,11 @@
             "id": 54173593,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:42:00Z",
-            "open_issues": 1794,
+            "last_commit": "2026-09-04T15:15:31Z",
+            "open_issues": 1811,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90994,
+            "stars": 91009,
             "topics": [
               "angular",
               "components",
@@ -57,11 +57,11 @@
             "id": 257485422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:31:12Z",
-            "open_issues": 765,
+            "last_commit": "2026-09-04T10:15:31Z",
+            "open_issues": 759,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82666,
+            "stars": 82677,
             "topics": [
               "build-tool",
               "dev-server",
@@ -116,7 +116,7 @@
             "open_issues": 168,
             "owner": "insin",
             "repo": "nwb",
-            "stars": 5535,
+            "stars": 5534,
             "topics": [
               "babel",
               "inferno",
@@ -226,7 +226,7 @@
             "open_issues": 0,
             "owner": "kamod-ch",
             "repo": "preactpress",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "documentation",
               "documentation-site",
@@ -613,7 +613,7 @@
             "open_issues": 30,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7873,
+            "stars": 7874,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -644,7 +644,7 @@
             "open_issues": 96,
             "owner": "preactjs",
             "repo": "preact-router",
-            "stars": 1052,
+            "stars": 1051,
             "topics": [
               "preact",
               "preact-components",
@@ -743,7 +743,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8973,
+            "stars": 8974,
             "topics": [
               "2d",
               "angular",
@@ -860,7 +860,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-27T17:35:53Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "s00d",
             "repo": "nuxt-i18n-micro",
             "stars": 248,
@@ -1487,6 +1487,27 @@
         },
         {
           "node_type": "item",
+          "title": "Pant",
+          "description": "Mobile UI Components built on Preact (docs and demos). Ported from awesome Vue components of Vant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mobile UI Components built on Preact. Ported from Vant.",
+            "homepage": "https://webyom.github.io/pant/",
+            "id": 242304947,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2023-01-05T08:05:12Z",
+            "open_issues": 29,
+            "owner": "webyom",
+            "repo": "pant",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
+        },
+        {
+          "node_type": "item",
           "title": "Preact Component Console",
           "description": "Console Emulator. Simulates typing via dynamic delays.",
           "children": [],
@@ -1510,27 +1531,6 @@
               "terminal-emulator",
               "typewriter"
             ]
-          },
-          "first_seen": "2026-08-28T21:34:19.696Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Pant",
-          "description": "Mobile UI Components built on Preact (docs and demos). Ported from awesome Vue components of Vant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mobile UI Components built on Preact. Ported from Vant.",
-            "homepage": "https://webyom.github.io/pant/",
-            "id": 242304947,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2023-01-05T08:05:12Z",
-            "open_issues": 29,
-            "owner": "webyom",
-            "repo": "pant",
-            "stars": 30,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1652,6 +1652,35 @@
         },
         {
           "node_type": "item",
+          "title": "Kamod UI",
+          "description": "Lightweight Preact and Tailwind UI components (shadcn-style approach) (demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Preact component system / shadcn-style approach for Preact",
+            "homepage": "https://ui.kamod.ch/",
+            "id": 1182482104,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-04T12:21:45Z",
+            "open_issues": 0,
+            "owner": "kamod-ch",
+            "repo": "kamod-ui",
+            "stars": 12,
+            "topics": [
+              "component-library",
+              "css-framework",
+              "preact",
+              "tailwindcss",
+              "tailwindcss-v4",
+              "ui",
+              "vite"
+            ]
+          },
+          "first_seen": "2026-08-28T21:34:19.696Z"
+        },
+        {
+          "node_type": "item",
           "title": "Preact Flyd",
           "description": "Use flyd FRP streams in Preact + JSX.",
           "children": [],
@@ -1668,35 +1697,6 @@
             "repo": "preact-flyd",
             "stars": 11,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:34:19.696Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kamod UI",
-          "description": "Lightweight Preact and Tailwind UI components (shadcn-style approach) (demo).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Preact component system / shadcn-style approach for Preact",
-            "homepage": "https://ui.kamod.ch/",
-            "id": 1182482104,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-02T19:00:55Z",
-            "open_issues": 12,
-            "owner": "kamod-ch",
-            "repo": "kamod-ui",
-            "stars": 11,
-            "topics": [
-              "component-library",
-              "css-framework",
-              "preact",
-              "tailwindcss",
-              "tailwindcss-v4",
-              "ui",
-              "vite"
-            ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
         },
@@ -1887,7 +1887,7 @@
             "open_issues": 4,
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21249,
+            "stars": 21251,
             "topics": [
               "atomic",
               "hacktoberfest",
@@ -1914,7 +1914,7 @@
             "open_issues": 30,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8969,
+            "stars": 8971,
             "topics": [
               "complex-apps",
               "exchange",
@@ -1938,10 +1938,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-03T14:04:33Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7595,
+            "stars": 7596,
             "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
@@ -2440,11 +2440,11 @@
             "id": 36928490,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T06:46:16Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-04T13:44:20Z",
+            "open_issues": 47,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3173,
+            "stars": 3175,
             "topics": [
               "assistant",
               "automation",
@@ -2583,7 +2583,7 @@
             "open_issues": 34,
             "owner": "feross",
             "repo": "bitmidi.com",
-            "stars": 617,
+            "stars": 616,
             "topics": [
               "audio",
               "javascript",
@@ -3270,11 +3270,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T13:14:56Z",
-            "open_issues": 1336,
+            "last_commit": "2026-09-04T15:16:03Z",
+            "open_issues": 1338,
             "owner": "react",
             "repo": "react",
-            "stars": 249043,
+            "stars": 249075,
             "topics": [
               "declarative",
               "frontend",
@@ -3361,7 +3361,7 @@
             "id": 401622710,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-02T19:17:33Z",
+            "last_commit": "2026-09-03T19:33:12Z",
             "open_issues": 0,
             "owner": "zikojs",
             "repo": "ziko",
@@ -3390,7 +3390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:23:26.815Z",
+    "last_updated": "2026-09-04T15:19:22.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Preact ecosystem :star2:",
