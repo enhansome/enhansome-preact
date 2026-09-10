@@ -15,11 +15,11 @@
             "id": 54173593,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:16:56Z",
+            "last_commit": "2026-09-10T14:33:09Z",
             "open_issues": 1820,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 91028,
+            "stars": 91034,
             "topics": [
               "angular",
               "components",
@@ -57,11 +57,11 @@
             "id": 257485422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T05:09:35Z",
-            "open_issues": 762,
+            "last_commit": "2026-09-10T11:49:35Z",
+            "open_issues": 755,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82771,
+            "stars": 82779,
             "topics": [
               "build-tool",
               "dev-server",
@@ -88,7 +88,7 @@
             "open_issues": 24,
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9840,
+            "stars": 9839,
             "topics": [
               "config",
               "create-react-app",
@@ -116,7 +116,7 @@
             "open_issues": 167,
             "owner": "insin",
             "repo": "nwb",
-            "stars": 5532,
+            "stars": 5531,
             "topics": [
               "babel",
               "inferno",
@@ -613,7 +613,7 @@
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7886,
+            "stars": 7887,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -739,11 +739,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T20:46:35Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-10T15:13:25Z",
+            "open_issues": 18,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8978,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -859,7 +859,7 @@
             "id": 842990422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:57:38Z",
+            "last_commit": "2026-09-10T11:04:23Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "nuxt-i18n-micro",
@@ -1887,7 +1887,7 @@
             "open_issues": 1,
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21256,
+            "stars": 21260,
             "topics": [
               "atomic",
               "hacktoberfest",
@@ -1941,7 +1941,7 @@
             "open_issues": 22,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7598,
+            "stars": 7599,
             "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
@@ -2118,7 +2118,7 @@
             "open_issues": 1,
             "owner": "Marcisbee",
             "repo": "exome",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "exome",
               "javascript",
@@ -2313,7 +2313,7 @@
             "open_issues": 3,
             "owner": "mwood23",
             "repo": "preact-island",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "habitat",
               "preact",
@@ -2441,10 +2441,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T15:39:48Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3184,
+            "stars": 3186,
             "topics": [
               "assistant",
               "automation",
@@ -2475,7 +2475,7 @@
             "open_issues": 120,
             "owner": "chinchang",
             "repo": "web-maker",
-            "stars": 2698,
+            "stars": 2697,
             "topics": [
               "chrome-extension",
               "chrome-tabs",
@@ -3270,11 +3270,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:28:45Z",
-            "open_issues": 1346,
+            "last_commit": "2026-09-10T13:37:43Z",
+            "open_issues": 1363,
             "owner": "react",
             "repo": "react",
-            "stars": 249675,
+            "stars": 249648,
             "topics": [
               "declarative",
               "frontend",
@@ -3302,7 +3302,7 @@
             "open_issues": 40,
             "owner": "infernojs",
             "repo": "inferno",
-            "stars": 16456,
+            "stars": 16455,
             "topics": [
               "inferno",
               "inferno-component",
@@ -3390,7 +3390,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T15:27:49.108Z",
+    "last_updated": "2026-09-10T15:22:49.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Preact ecosystem :star2:",
