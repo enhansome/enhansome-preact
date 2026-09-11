@@ -2,9 +2,9 @@
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
-> A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ⭐ 38,858 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-10 ecosystem :star2:
+> A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ⭐ 38,862 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-10 ecosystem :star2:
 
-[Preact](https://github.com/developit/preact) ⭐ 38,858 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-10 is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+[Preact](https://github.com/developit/preact) ⭐ 38,862 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-10 is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
 
@@ -25,13 +25,13 @@
 
 * [Slack](https://chat.preactjs.com/) (Discussion Forum)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-* [Github](https://github.com/developit/preact) ⭐ 38,858 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-10
+* [Github](https://github.com/developit/preact) ⭐ 38,862 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-10
 * [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
 
-* [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) ⭐ 91,034 | 🐛 1,820 | 🌐 TypeScript | 📅 2026-09-10 - Storybook for Preact is a UI development environment for your Preact components.
-* [Vite](https://github.com/vitejs/vite) ⭐ 82,779 | 🐛 755 | 🌐 TypeScript | 📅 2026-09-10 - Fast native-ESM powered web dev build tool for Preact, Vue or React.
+* [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) ⭐ 91,039 | 🐛 1,820 | 🌐 TypeScript | 📅 2026-09-11 - Storybook for Preact is a UI development environment for your Preact components.
+* [Vite](https://github.com/vitejs/vite) ⭐ 82,790 | 🐛 757 | 🌐 TypeScript | 📅 2026-09-10 - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 * [React App Rewire Preact](https://github.com/timarney/react-app-rewired) ⭐ 9,839 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11 - Use Preact with create-react-app without ejecting.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - Quick Development with React, Inferno or Preact.
 * [Preact CLI](https://github.com/developit/preact-cli) ⭐ 4,666 | 🐛 77 | 🌐 JavaScript | 📅 2024-03-27 - Build a Preact Progressive Web App in seconds.
@@ -65,7 +65,7 @@
 
 ### Components
 
-* [Preact Particles](https://github.com/matteobruni/tsparticles#preact) ⭐ 8,977 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-10 - Lightweight component to easily add cool particles animations to websites.
+* [Preact Particles](https://github.com/matteobruni/tsparticles#preact) ⭐ 8,978 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-11 - Lightweight component to easily add cool particles animations to websites.
 * [Preact Compat](https://github.com/preactjs/preact-compat) ⚠️ Archived - Use any React library with Preact *([full example](https://github.com/developit/preact-compat-example) ⭐ 53 | 🐛 3 | 🌐 JavaScript | 📅 2017-05-09)*.
 * [Preact Render To String](https://github.com/preactjs/preact-render-to-string) ⭐ 725 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-09 - Universal rendering.
 * [Preact Material Components](https://github.com/prateekbh/preact-material-components) ⭐ 552 | 🐛 59 | 🌐 TypeScript | 📅 2020-11-28 - Preact wrapper for "Material Components for the web".
@@ -83,7 +83,7 @@
 * [Preact Translate](https://github.com/DenysVuika/preact-translate) ⭐ 69 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-17 - Minimalistic translate (i18n) library for Preact.
 * [Preact Token Input](https://github.com/developit/preact-token-input) ⭐ 64 | 🐛 2 | 🌐 JavaScript | 📅 2018-07-29 - Text field that tokenizes input, for things like tags.
 * [MU Forms](https://github.com/mobiushorizons/mu-forms) ⭐ 59 | 🐛 3 | 🌐 JavaScript | 📅 2020-02-09 - Dead simple form library for (P)React.
-* [Preact Transitioning](https://github.com/fakundo/preact-transitioning) ⭐ 52 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-09 - Exposes Preact components for easily implementing basic CSS animations and transitions.
+* [Preact Transitioning](https://github.com/fakundo/preact-transitioning) ⭐ 52 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-11 - Exposes Preact components for easily implementing basic CSS animations and transitions.
 * [Preact Progress](https://github.com/lukeed/preact-progress) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-15 - Simple and lightweight (\~590 bytes gzip) progress bar component for Preact.
 * [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) ⚠️ Archived - Create preact components without the class keyword.
 * [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-25 - A (800b gzip) header that will show/hide while scrolling for Preact.
@@ -95,7 +95,7 @@
 * [Shallow Compare](https://github.com/tkh44/shallow-compare) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-28 - Simplified `shouldComponentUpdate` helper.
 * [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) ⭐ 33 | 🐛 5 | 🌐 JavaScript | 📅 2017-01-18 - Hyperscript-like syntax for creating elements.
 * [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) ⭐ 33 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-03 - Feather icons for Preact.
-* [Pant](https://github.com/webyom/pant) ⭐ 31 | 🐛 29 | 🌐 TypeScript | 📅 2023-01-05 - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant](https://github.com/youzan/vant) ⭐ 24,383 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-09.
+* [Pant](https://github.com/webyom/pant) ⭐ 31 | 🐛 29 | 🌐 TypeScript | 📅 2023-01-05 - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant](https://github.com/youzan/vant) ⭐ 24,382 | 🐛 219 | 🌐 TypeScript | 📅 2026-09-10.
 * [Preact Component Console](https://github.com/haensl/preact-component-console) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2018-07-03 - Console Emulator. Simulates typing via dynamic delays.
 * [Tailored Components](https://github.com/nesterow/tailored) ⭐ 27 | 🐛 1 | 🌐 TypeScript | 📅 2023-03-25 - Unstyled components and hooks for Preact & Deno.
 * [Preact Dock](https://github.com/TimDaub/preact-touchable-dock) ⭐ 22 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Simple DnD and touch-enabled Dock for Preact apps.
@@ -119,9 +119,9 @@
 
 ### Libraries
 
-* [Jotai](https://github.com/pmndrs/jotai) ⭐ 21,260 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-08 - Primitive and flexible state management for React & Preact.
-* [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) ⭐ 8,974 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-09 - Use [urql](https://github.com/FormidableLabs/urql) ⭐ 8,974 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-09 with Preact core + hooks.
-* [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,599 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-08 - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
+* [Jotai](https://github.com/pmndrs/jotai) ⭐ 21,262 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-08 - Primitive and flexible state management for React & Preact.
+* [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) ⭐ 8,974 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-09 - Use [urql](https://github.com/FormidableLabs/urql) ⭐ 8,974 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-09 with Preact core + hooks.
+* [Nano Stores](https://github.com/nanostores/nanostores) ⭐ 7,600 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-08 - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 * [Unistore](https://github.com/developit/unistore) ⭐ 2,846 | 🐛 46 | 🌐 JavaScript | 📅 2021-06-07 - 350b / 650b state container with component actions for Preact & React.
 * [Redux Zero](https://github.com/concretesolutions/redux-zero) ⭐ 1,960 | 🐛 111 | 🌐 TypeScript | 📅 2023-01-05 - A lightweight state container based on Redux with a single store and no reducers.
 * [Modular Forms](https://github.com/fabian-hiller/modular-forms) ⭐ 1,213 | 🐛 124 | 🌐 TypeScript | 📅 2026-06-06 - Modular, type-safe and signal based form library for Preact.
@@ -158,13 +158,13 @@
 
 ### Example Apps
 
-* [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project](https://github.com/GladysAssistant/Gladys) ⭐ 3,186 | 🐛 51 | 🌐 JavaScript | 📅 2026-09-07)*.
+* [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project](https://github.com/GladysAssistant/Gladys) ⭐ 3,189 | 🐛 51 | 🌐 JavaScript | 📅 2026-09-07)*.
 * [Web Maker](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. *([Github project](https://github.com/chinchang/web-maker) ⭐ 2,697 | 🐛 120 | 🌐 JavaScript | 📅 2026-08-03)*.
 * [Intergram](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. *([Github project](https://github.com/idoco/intergram) ⭐ 1,416 | 🐛 73 | 🌐 JavaScript | 📅 2024-03-25)*.
 * [Proxx](https://proxx.app) A game of proximity by GoogleChromeLabs using preact. *([Github project](https://github.com/GoogleChromeLabs/proxx) ⭐ 1,359 | 🐛 130 | 🌐 TypeScript | 📅 2026-06-22)*.
 * [macOS Web](https://macos-preact.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite *([Github project](https://github.com/PuruVJ/macos-preact) ⭐ 1,040 | 🐛 13 | 🌐 TypeScript | 📅 2023-03-29)*.
 * [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project](https://github.com/feross/bitmidi.com) ⭐ 617 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-27)*
-* [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project](https://github.com/PiyushSuthar/Windows-11-Web) ⭐ 601 | 🐛 5 | 🌐 TypeScript | 📅 2023-08-21)*.
+* [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project](https://github.com/PiyushSuthar/Windows-11-Web) ⭐ 600 | 🐛 5 | 🌐 TypeScript | 📅 2023-08-21)*.
 * [Preact HN](https://github.com/kristoferbaxter/preact-hn) ⭐ 295 | 🐛 9 | 🌐 TypeScript | 📅 2018-04-16 - Demonstration of Preact used to build Hacker News as a PWA.
 * [GuriVR](https://gurivr.com) *([GitHub Project](https://github.com/opennewslabs/guri-vr) ⭐ 195 | 🐛 23 | 🌐 JavaScript | 📅 2023-01-09)*
 * [OSS.Ninja](https://oss.ninja) *([GitHub Project](https://github.com/developit/oss.ninja) ⭐ 148 | 🐛 2 | 🌐 JavaScript | 📅 2020-10-01)*
@@ -198,8 +198,8 @@
 
 ### Related Libraries
 
-* [React](https://github.com/facebook/react) ⭐ 249,648 | 🐛 1,363 | 🌐 JavaScript | 📅 2026-09-10 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [Inferno](https://github.com/infernojs/inferno) ⭐ 16,455 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-19 - An extremely fast, React-like JavaScript library for building modern user interfaces.
+* [React](https://github.com/facebook/react) ⭐ 250,039 | 🐛 1,346 | 🌐 JavaScript | 📅 2026-09-11 - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [Inferno](https://github.com/infernojs/inferno) ⭐ 16,456 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-19 - An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [Rax](https://github.com/alibaba/rax) ⭐ 8,018 | 🐛 80 | 🌐 JavaScript | 📅 2023-03-27 - A universal React-compatible render engine.
 * [Zikojs](https://github.com/zakarialaoui10/zikojs) ⭐ 135 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-07 - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.
 
@@ -222,4 +222,4 @@ Make sure you follow the [guidelines](/contributing.md). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
