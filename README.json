@@ -15,11 +15,11 @@
             "id": 54173593,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T15:23:52Z",
-            "open_issues": 1820,
+            "last_commit": "2026-09-12T14:10:39Z",
+            "open_issues": 1822,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 91039,
+            "stars": 91046,
             "topics": [
               "angular",
               "components",
@@ -57,11 +57,11 @@
             "id": 257485422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:55:50Z",
-            "open_issues": 757,
+            "last_commit": "2026-09-12T14:02:08Z",
+            "open_issues": 762,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82790,
+            "stars": 82794,
             "topics": [
               "build-tool",
               "dev-server",
@@ -148,7 +148,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4666,
+            "stars": 4665,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -739,11 +739,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T05:44:07Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-12T06:25:11Z",
+            "open_issues": 20,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8978,
+            "stars": 8979,
             "topics": [
               "2d",
               "angular",
@@ -859,7 +859,7 @@
             "id": 842990422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T11:04:23Z",
+            "last_commit": "2026-09-11T16:56:37Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "nuxt-i18n-micro",
@@ -1887,7 +1887,7 @@
             "open_issues": 1,
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21262,
+            "stars": 21263,
             "topics": [
               "atomic",
               "hacktoberfest",
@@ -1941,7 +1941,7 @@
             "open_issues": 22,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7600,
+            "stars": 7602,
             "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
@@ -2023,7 +2023,7 @@
             "open_issues": 124,
             "owner": "fabian-hiller",
             "repo": "modular-forms",
-            "stars": 1213,
+            "stars": 1214,
             "topics": [
               "bundle-size",
               "form",
@@ -2441,10 +2441,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T15:39:48Z",
-            "open_issues": 51,
+            "open_issues": 54,
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3189,
+            "stars": 3190,
             "topics": [
               "assistant",
               "automation",
@@ -2820,7 +2820,7 @@
             "open_issues": 1,
             "owner": "quartercastle",
             "repo": "hueify",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "app",
               "controller",
@@ -2953,7 +2953,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-05-22T06:24:27Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "jpodwys",
             "repo": "preact-journal",
             "stars": 37,
@@ -3021,6 +3021,48 @@
             ]
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Authier",
+          "description": "Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension (GitHub Project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source password manager and TOTP vault for browsers and the web",
+            "homepage": "https://www.authier.pm/",
+            "id": 374782887,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-12T00:30:29Z",
+            "open_issues": 51,
+            "owner": "authier-pm",
+            "repo": "authier",
+            "stars": 22,
+            "topics": [
+              "autofill",
+              "bitwarden",
+              "bun",
+              "chrome",
+              "chrome-extension",
+              "client-side-encryption",
+              "edge-extension",
+              "firefox-extension",
+              "hacktoberfest",
+              "open-source",
+              "password-generator",
+              "password-manager",
+              "passwords",
+              "react-native",
+              "reactjs",
+              "security",
+              "totp",
+              "trpc",
+              "typescript",
+              "web-extension"
+            ]
+          },
+          "first_seen": "2026-09-12T14:32:43.483Z"
         },
         {
           "node_type": "item",
@@ -3270,11 +3312,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T13:31:39Z",
-            "open_issues": 1346,
+            "last_commit": "2026-09-11T23:35:47Z",
+            "open_issues": 1368,
             "owner": "react",
             "repo": "react",
-            "stars": 250039,
+            "stars": 250051,
             "topics": [
               "declarative",
               "frontend",
@@ -3390,7 +3432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:25:06.563Z",
+    "last_updated": "2026-09-12T14:32:43.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Preact ecosystem :star2:",
@@ -3398,8 +3440,8 @@
       "id": 79582090,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-05T22:19:42Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-11T20:26:51Z",
+      "open_issues": 0,
       "owner": "preactjs",
       "repo": "awesome-preact",
       "stars": 1002,
@@ -3411,7 +3453,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "cea45b398cb88f0a8f00dd0e6f755387060a591f",
+    "original_repository_sha": "ef7ceb7c8230661034db165e2bba2f149cf3caa7",
     "enhanced_repository": "enhansome/enhansome-preact",
     "enhanced_repository_description": null,
     "title": "Awesome Preact with stars"
