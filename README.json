@@ -15,11 +15,11 @@
             "id": 54173593,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:48:07Z",
-            "open_issues": 1845,
+            "last_commit": "2026-09-16T12:04:43Z",
+            "open_issues": 1854,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 91054,
+            "stars": 91075,
             "topics": [
               "angular",
               "components",
@@ -57,11 +57,11 @@
             "id": 257485422,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T01:34:03Z",
-            "open_issues": 772,
+            "last_commit": "2026-09-16T05:50:49Z",
+            "open_issues": 776,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82835,
+            "stars": 82852,
             "topics": [
               "build-tool",
               "dev-server",
@@ -148,7 +148,7 @@
             "open_issues": 77,
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4665,
+            "stars": 4666,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -613,7 +613,7 @@
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7894,
+            "stars": 7893,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -739,7 +739,7 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T23:09:50Z",
+            "last_commit": "2026-09-16T11:42:30Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
@@ -1887,7 +1887,7 @@
             "open_issues": 1,
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21266,
+            "stars": 21268,
             "topics": [
               "atomic",
               "hacktoberfest",
@@ -1914,7 +1914,7 @@
             "open_issues": 32,
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8975,
+            "stars": 8974,
             "topics": [
               "complex-apps",
               "exchange",
@@ -1937,11 +1937,11 @@
             "id": 304120355,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T09:24:11Z",
+            "last_commit": "2026-09-16T14:43:37Z",
             "open_issues": 22,
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7604,
+            "stars": 7606,
             "topics": []
           },
           "first_seen": "2026-08-28T21:34:19.696Z"
@@ -2518,7 +2518,7 @@
           "description": "A game of proximity by GoogleChromeLabs using preact. (Github project).",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A game of proximity",
             "homepage": "https://proxx.app",
             "id": 173133112,
@@ -3312,11 +3312,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:41:47Z",
-            "open_issues": 1371,
+            "last_commit": "2026-09-16T10:35:59Z",
+            "open_issues": 1372,
             "owner": "react",
             "repo": "react",
-            "stars": 250458,
+            "stars": 250488,
             "topics": [
               "declarative",
               "frontend",
@@ -3374,7 +3374,7 @@
             "open_issues": 80,
             "owner": "alibaba",
             "repo": "rax",
-            "stars": 8018,
+            "stars": 8019,
             "topics": [
               "framework",
               "javascript",
@@ -3432,7 +3432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:49:49.770Z",
+    "last_updated": "2026-09-16T15:41:37.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome things regarding Preact ecosystem :star2:",
